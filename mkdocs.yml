@@ -1,0 +1,26 @@
+site_name: Ycash&trade;
+
+theme:
+  name: 'material'
+  logo: 'y_sign.png'
+  favicon: 'y_sign.png'
+
+nav:
+  - Home: index.md
+  - Download: download.md
+  - About: about.md
+  - The Fork: the_fork.md
+  - Get Involved: get_involved.md
+  # - Mining: mining.md
+  - Blog: blog.md
+  - Documentation: docs.md
+  - Foundation: foundation.md
+
+extra:
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/YcashFoundation'
+    - type: 'reddit'
+      link: 'https://reddit.com/r/ycashtalk'
+    - type: 'github'
+      link: 'https://github.com/YcashFoundation/ycash/'
