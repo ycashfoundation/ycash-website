@@ -71,7 +71,7 @@ Bitfly has [announced](https://twitter.com/etherchain_org/status/111845819957587
 
 Suprnova has also [announced](https://forum.zcashcommunity.com/t/announcing-ycash-the-first-friendly-fork-of-the-zcash-blockchain/33162/41) support for a Ycash mining pool
 
-(If this list is incomplete, contact info @ ycash dot xyz and let us know.)
+(If this list is incomplete, contact info at ycash dot xyz and let us know.)
 
 ### Mining Software
 
@@ -87,4 +87,4 @@ Several different GPU mining software packages support Equihash(192,7), includin
 
 * [lolMiner](https://bitcointalk.org/index.php?topic=4724735.0) (AMD) (Linux/Windows) (mandatory 1% dev fee)
 
-(If this list is incomplete, contact info @ ycash dot xyz and let us know.)
+(If this list is incomplete, contact info at ycash dot xyz and let us know.)
