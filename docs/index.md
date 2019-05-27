@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+<div class="slogan" style="font-size: 18pt;" >
+Your local community.<br/>
+Your loved ones.<br/>
+Your money.<br/>
+<b>Ycash.</b><br/>
+</div>
 
-## Commands
+Ycash is a new digital currency that aspires to empower local communities to take control over the money that they earn, spend, and save.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+**Ycash is launching in July!** At block height 570,000 of the Zcash blockchain
+(approximately July 18th), Ycash will fork away from Zcash.
+[Learn more about the fork.](/the_fork)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Important Note: Ycash is a community-led project and is completely independent from both the Electric Coin Company and the Zcash Foundation.
