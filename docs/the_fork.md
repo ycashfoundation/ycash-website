@@ -67,6 +67,8 @@ possible options, see [this discussion on Reddit](https://www.reddit.com/r/zec/c
 
 ### Pools
 
+2Miners has [announced](https://twitter.com/pool2miners/status/1116370525670887425) support for Ycash mining pools, both PPLNS and SOLO. 
+
 Bitfly has [announced](https://twitter.com/etherchain_org/status/1118458199575879680) that they will provide a Ycash pool (and Ycash explorer).
 
 Suprnova has also [announced](https://forum.zcashcommunity.com/t/announcing-ycash-the-first-friendly-fork-of-the-zcash-blockchain/33162/41) support for a Ycash mining pool
