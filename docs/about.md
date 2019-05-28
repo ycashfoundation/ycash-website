@@ -43,7 +43,7 @@ is an important way for users to participate in a digital currency's community,
 and mining on commodity hardware opens up the mining process up to a much
 larger group of users.
 
-Another key component of Ycash's approach to addressign The Distribution Problem is upholding a
+Another key component of Ycash's approach to addressing The Distribution Problem is upholding a
 promise that originated from Zcash: that 90% of the coins would be distributed
 via the mining process. The structure of the Ycash Development Fund upholds that
 promise: With 5% of the coins starting at block height 570,000 going to the
@@ -59,7 +59,7 @@ the only coin that is also a chain fork of Zcash.* So, not only does
 Ycash build upon the codebase of Zcash like many other coins,
 it also *uniquely* builds upon Zcash's blockchain too. Therefore, the Zcash community,
 including the world-class engineers and cryptographers at the Electric Coin
-Company, have a vested interest in Ycash's success (to the extend that those
+Company, have a vested interest in Ycash's success (to the extent that those
 individuals hold Zcash at the time of the Zcash/Ycash split).
 
 Ycash is standing on the shoulders of two giants: Bitcoin and Zcash. We will
