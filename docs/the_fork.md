@@ -88,3 +88,9 @@ Several different GPU mining software packages support Equihash(192,7), includin
 * [lolMiner](https://bitcointalk.org/index.php?topic=4724735.0) (AMD) (Linux/Windows) (mandatory 1% dev fee)
 
 (If this list is incomplete, contact info at ycash dot xyz and let us know.)
+
+### Exchanges
+
+The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash:
+
+* [Safe.Trade](https://www.safe.trade) has pledged to list Ycash. For those users with ZEC deposited on the exchange, Safe.Trade has pledged to credit those users with an equal amount of YEC.
