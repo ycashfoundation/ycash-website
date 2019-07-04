@@ -4,14 +4,14 @@
 
 YecWallet is the offical Ycash wallet of the Ycash Foundation. YecWallet allows you to store, send, and receive Ycash.
 
-**The first version of YecWallet for the Ycash network will be available near the end of June.**
+For most users, YecWallet is the easiest way to join the Ycash network. (YecWallet includes a copy of ycashd, and will take care of configuring ycashd for you!)
 
-For advanced users looking to experiment with the testnet, [download TESTNET-ONLY YecWallet version 0.1](https://github.com/ycashfoundation/ycash/releases/tag/0.1).
+**YecWallet v1.0 is now available!** [Download from GitHub](https://github.com/ycashfoundation/ycash/releases/tag/1.0)
 
 ## ycashd
 
 ycashd is the official Ycash node implementation of the Ycash Foundation.
 
-**The first version of ycashd for the Ycash network will be available near the end of June.**
+Advanced users can choose to configure ycashd directly, and optionally use YecWallet with it.
 
-For advanced users looking to experiment with the testnet, [download TESTNET-ONLY YecWallet version 0.1](https://github.com/ycashfoundation/ycash/releases/tag/0.1), which includes a TESTNET-ONLY version of ycashd.
+**ycashd v1.0 is now available!** [Download from GitHub](https://github.com/ycashfoundation/ycash/releases/tag/1.0)
