@@ -41,6 +41,16 @@ Ycash utilizes the two-way replay protection built in to Zcash's upgrade
 mechanism (first introduced in Zcash's Overwinter upgrade). Therefore, users
 and exchanges need not worry about replay attacks.
 
+## Wallets
+
+### Official Wallet of Yash Foundation
+
+[YecWallet](/download) (Full node wallet for Mac, Linux, and Windows)
+
+### Third Party Wallets
+
+[BitpieWallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
+and Android)
 
 ## Accessing Your Ycash
 
@@ -63,9 +73,18 @@ keys".
 No hardware wallet has announced native support for Ycash. For a discussion of
 possible options, see [this discussion on Reddit](https://www.reddit.com/r/zec/comments/bdhzbn/how_to_get_zcash_friendly_fork_ycash_on_a_trezor/?utm_source=share&utm_medium=web2x).
 
+### Blockchain explorer
+
+[SafeTrade's Ycash Blockchain Explorer](https://yec.safe.trade)
+
+
 ## Mining at Launch
 
 ### Pools
+
+[Luxor Mining Pool](https://mining.luxor.tech/) (Largest American mining pool)
+
+[Voidr](https://ycash.voidr.net)
 
 Bitfly has [announced](https://twitter.com/etherchain_org/status/1118458199575879680) that they will provide a Ycash pool (and Ycash explorer).
 
