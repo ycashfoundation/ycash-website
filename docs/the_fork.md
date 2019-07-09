@@ -50,7 +50,7 @@ and exchanges need not worry about replay attacks.
 ### Third Party Wallets
 
 [BitpieWallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
-and Android)
+and Android). [See announcement](https://twitter.com/BitpieWallet/status/1145967456147501056). *Note: Bitpie has tentatively announced support for the fork. They have not yet announced when that support will be added.*
 
 ## Accessing Your Ycash
 
