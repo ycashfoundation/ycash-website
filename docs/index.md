@@ -13,7 +13,7 @@ Ycash is a new digital currency that aspires to empower local communities to tak
 (approximately July 18th), Ycash will fork away from Zcash.
 [Learn more about the fork.](/the_fork)
 
-[**Download Ycash Version 1.0 Now!**](/download)
+[**Download Ycash Version 2.0.5 Now!**](/download)
 
 For important announcements, follow [@YcashFoundation](https://twitter.com/YcashFoundation)
 on Twitter.
