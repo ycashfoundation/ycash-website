@@ -44,8 +44,8 @@ then follow these instructions:
 
     ```./ycashd --loadblock=/path/to/ycash-blocks/blk00000.dat```
 
+    (Note that YecWallet users using YecWallet's "embedded" `ycashd` will need to invoke the embedded `ycashd` directly.)
+
 5. Wait for the import to finish. It will take several hours.
 
 6. Restart `ycashd` normally.
-
-Note that YecWallet users using YecWallet's "embedded" `ycashd` will need to invoke the embedded `ycashd` directly.
