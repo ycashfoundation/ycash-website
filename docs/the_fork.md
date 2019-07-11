@@ -50,7 +50,7 @@ and exchanges need not worry about replay attacks.
 ### Third Party Wallets
 
 [BitpieWallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
-and Android). [See announcement](https://twitter.com/BitpieWallet/status/1145967456147501056). *Note: Bitpie has tentatively announced support for the fork. They have not yet announced when that support will be added.*
+and Android). [See announcement](https://twitter.com/BitpieWallet/status/1145967456147501056).
 
 ## Accessing Your Ycash
 
@@ -110,6 +110,9 @@ Several different GPU mining software packages support Equihash(192,7), includin
 
 ### Exchanges
 
-The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash:
+The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash. For any given exchange, users should perform their own due dilligence.
 
-* [Safe.Trade](https://www.safe.trade) has pledged to list Ycash. For those users with ZEC deposited on the exchange, Safe.Trade has pledged to credit those users with an equal amount of YEC.
+* [SafeTrade](https://www.safe.trade) ([See announcement](https://twitter.com/SafeCoins/status/1124185869135634432))
+* [BigONE](https://big.one) ([See announcement](https://bigone.zendesk.com/hc/en-us/articles/360026359253-BigONE-Will-Support-Zcach-ZEC-Hard-Fork))
+
+* [Hoo](https://hoo.com/) ([See announcement](https://twitter.com/YcashFoundation/status/1149107389586497536))
