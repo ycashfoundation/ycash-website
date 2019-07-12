@@ -6,7 +6,7 @@ YecWallet is the offical Ycash wallet of the Ycash Foundation. YecWallet allows 
 
 For most users, YecWallet is the easiest way to join the Ycash network. (YecWallet includes a copy of ycashd, and will take care of configuring ycashd for you!)
 
-**YecWallet v2.0.5 is now available!** [Download from GitHub](https://github.com/ycashfoundation/ycash/releases/tag/2.0.5)
+**YecWallet v2.0.5.1 is now available!** [Download from GitHub](https://github.com/ycashfoundation/yecwallet/releases)
 
 ## ycashd
 
