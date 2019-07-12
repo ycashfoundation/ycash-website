@@ -43,14 +43,18 @@ and exchanges need not worry about replay attacks.
 
 ## Wallets
 
-### Official Wallet of Yash Foundation
+### Official Wallet of Ycash Foundation
 
 [YecWallet](/download) (Full node wallet for Mac, Linux, and Windows)
 
 ### Third Party Wallets
 
-[BitpieWallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
-and Android). [See announcement](https://twitter.com/BitpieWallet/status/1145967456147501056).
+[Bitpie Wallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
+and Android). *[See announcement](https://twitter.com/BitpieWallet/status/1145967456147501056)*.
+
+[Guarda Wallet](https://guarda.co) (Multi-asset wallet for the web, desktop, iPhone and Android). *[See announcement](https://twitter.com/GuardaWallet/status/1149693019039289345)*.
+
+[Cobo Wallet](https://cobo.com/) (Multi-asset mobile wallet for iPhone and Android). *[See announcement](https://support.cobo.com/hc/en-us/articles/360026360034)*.
 
 ## Accessing Your Ycash
 
