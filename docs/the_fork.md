@@ -90,6 +90,8 @@ possible options, see [this discussion on Reddit](https://www.reddit.com/r/zec/c
 
 [Voidr](https://ycash.voidr.net)
 
+[Crypto | Bašta](https://eu.crypto.ba)
+
 Bitfly has [announced](https://twitter.com/etherchain_org/status/1118458199575879680) that they will provide a Ycash pool (and Ycash explorer).
 
 Suprnova has also [announced](https://forum.zcashcommunity.com/t/announcing-ycash-the-first-friendly-fork-of-the-zcash-blockchain/33162/41) support for a Ycash mining pool
@@ -114,7 +116,7 @@ Several different GPU mining software packages support Equihash(192,7), includin
 
 ### Exchanges
 
-The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash. For any given exchange, users should perform their own due dilligence.
+The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash. For any given exchange, users should perform their own due diligence.
 
 * [SafeTrade](https://www.safe.trade) ([See announcement](https://twitter.com/SafeCoins/status/1124185869135634432))
 * [BigONE](https://big.one) ([See announcement](https://bigone.zendesk.com/hc/en-us/articles/360026359253-BigONE-Will-Support-Zcach-ZEC-Hard-Fork))
