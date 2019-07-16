@@ -49,7 +49,7 @@ and exchanges need not worry about replay attacks.
 
 ### Third Party Wallets
 
-[SafePay](https://safepay.safecoin.org/) (Multi-asset mobile wallet for iPhone and Android) *Latest Android version supports Ycash; support on iPhone expected shortly*
+[SafePay](https://safepay.safecoin.org/) (Multi-asset mobile wallet for iPhone, Android, and web)
 
 [Bitpie Wallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
 and Android). *[See announcement](https://twitter.com/BitpieWallet/status/1145967456147501056)*.
