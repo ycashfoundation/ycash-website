@@ -49,6 +49,8 @@ and exchanges need not worry about replay attacks.
 
 ### Third Party Wallets
 
+[SafePay](https://safepay.safecoin.org/) (Multi-asset mobile wallet for iPhone and Android) *Latest Android version supports Ycash; support on iPhone expected shortly*
+
 [Bitpie Wallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
 and Android). *[See announcement](https://twitter.com/BitpieWallet/status/1145967456147501056)*.
 
@@ -79,6 +81,8 @@ possible options, see [this discussion on Reddit](https://www.reddit.com/r/zec/c
 
 ### Blockchain explorer
 
+[Bitfly's Ycash Blockchain Explorer](https://yec.zcha.in)
+
 [SafeTrade's Ycash Blockchain Explorer](https://yec.safe.trade)
 
 
@@ -92,11 +96,11 @@ possible options, see [this discussion on Reddit](https://www.reddit.com/r/zec/c
 
 [Crypto | Bašta](https://eu.crypto.ba)
 
-Bitfly has [announced](https://twitter.com/etherchain_org/status/1118458199575879680) that they will provide a Ycash pool (and Ycash explorer).
+For a complete list of Ycash pools see these well-maintained lists:
 
-Suprnova has also [announced](https://forum.zcashcommunity.com/t/announcing-ycash-the-first-friendly-fork-of-the-zcash-blockchain/33162/41) support for a Ycash mining pool
+* [PoolWatch](https://www.poolwatch.io/coin/ycash)
 
-(If this list is incomplete, contact info at ycash dot xyz and let us know.)
+* [MiningPoolStats](https://miningpoolstats.stream/ycash)
 
 ### Mining Software
 
@@ -116,7 +120,7 @@ Several different GPU mining software packages support Equihash(192,7), includin
 
 ### Exchanges
 
-The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash. For any given exchange, users should perform their own due diligence.
+The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash. Note that the Ycash foundation does not endorse any exchange. Users should perform their own due diligence.
 
 * [SafeTrade](https://www.safe.trade) ([See announcement](https://twitter.com/SafeCoins/status/1124185869135634432))
 * [BigONE](https://big.one) ([See announcement](https://bigone.zendesk.com/hc/en-us/articles/360026359253-BigONE-Will-Support-Zcach-ZEC-Hard-Fork))
