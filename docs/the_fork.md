@@ -56,7 +56,7 @@ and Android). *[See announcement](https://twitter.com/BitpieWallet/status/114596
 
 [Guarda Wallet](https://guarda.co) (Multi-asset wallet for iPhone, Android, desktop, and the web). *[See announcement](https://twitter.com/GuardaWallet/status/1149693019039289345)*.
 
-[Atomic Wallet](https://atomicwallet.io/) (Multi-asset wallet for iPhone, Android, and desktop)
+[Atomic Wallet](https://atomicwallet.io/) (Multi-asset wallet for Android and desktop) *[See announcement](https://atomicwallet.io/ycash-zcash-fork)*.
 
 [Cobo Wallet](https://cobo.com/) (Multi-asset mobile wallet for iPhone and Android). *[See announcement](https://support.cobo.com/hc/en-us/articles/360026360034)*.
 
