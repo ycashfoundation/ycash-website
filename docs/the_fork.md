@@ -130,3 +130,5 @@ The Ycash Foundation continues to apply to several exchanges. The following exch
 * [BigONE](https://big.one) ([See announcement](https://bigone.zendesk.com/hc/en-us/articles/360026359253-BigONE-Will-Support-Zcach-ZEC-Hard-Fork))
 
 * [Hoo](https://hoo.com/) ([See announcement](https://twitter.com/YcashFoundation/status/1149107389586497536))
+
+* [Citex](https://www.citex.co.kr) ([See announcement](https://citex.zendesk.com/hc/en-us/articles/360030694252-Announcement-on-the-Launch-of-Zcash-ZEC-in-CITEX-Main-Board-Trade-Zone-Supports-ZEC-Hard-Fork-Announcement))
