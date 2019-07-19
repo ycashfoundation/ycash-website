@@ -94,6 +94,10 @@ possible options, see [this discussion on Reddit](https://www.reddit.com/r/zec/c
 
 [Luxor Mining Pool](https://mining.luxor.tech/) (Largest American enterprise mining pool)
 
+[BaikalMine](https://baikalmine.com/en/pplns/yec/)
+
+[BaikalMine SOLO](https://baikalmine.com/en/solo/yec/)
+
 [Bitfly (flypool.org)](https://ycash.flypool.org) (enterprise mining pool from the team behind Ethermine)
 
 [Voidr](https://ycash.voidr.net)
