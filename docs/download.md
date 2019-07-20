@@ -18,7 +18,19 @@ Advanced users can choose to configure ycashd directly, and optionally use YecWa
 
 ## "Bootstrap" Blockchain Download
 
-To help users get started with running Ycash full nodes, the Ycash Foundation is making available a "bootstrap" download of the Ycash blockchain. In lieu of syncing blocks 1 to 564,300 via the peer-to-peer network, users can download the following zip file:
+To help users get started with running Ycash full nodes, there are two ways to speed your initial download of the Ycash blockchain.
+
+### BitTorrent
+
+The fastest way to obtain the blockchain is via BitTorrent:
+
+[ycash_bootstrap_07192019.torrent](/ycash_bootstrap_07192019.torrent)
+
+Special thanks to [Luxor Mining Pool](https://mining.luxor.tech/) for preparing this torrent.
+
+### Zip File
+
+For users not familiar with BitTorrent, the Ycash Foundation is making available a zip file containing blocks 1 to 564,300:
 
 [http://downloads.ycash.xyz/download-ycash-blocks](http://downloads.ycash.xyz/download-ycash-blocks) (~15GB)
 
