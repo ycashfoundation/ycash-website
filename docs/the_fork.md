@@ -92,14 +92,6 @@ possible options, see [this discussion on Reddit](https://www.reddit.com/r/zec/c
 
 ### Pools
 
-[Luxor Mining Pool](https://mining.luxor.tech/) (Largest American enterprise mining pool)
-
-[Bitfly (flypool.org)](https://ycash.flypool.org) (enterprise mining pool from the team behind Ethermine)
-
-[Voidr](https://ycash.voidr.net)
-
-[Crypto | Bašta](https://eu.crypto.ba)
-
 For a complete list of Ycash pools see these well-maintained lists:
 
 * [PoolWatch](https://www.poolwatch.io/coin/ycash)
@@ -127,8 +119,11 @@ Several different GPU mining software packages support Equihash(192,7), includin
 The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash. Note that the Ycash foundation does not endorse any exchange. Users should perform their own due diligence.
 
 * [SafeTrade](https://www.safe.trade) ([See announcement](https://twitter.com/SafeCoins/status/1124185869135634432))
+
 * [BigONE](https://big.one) ([See announcement](https://bigone.zendesk.com/hc/en-us/articles/360026359253-BigONE-Will-Support-Zcach-ZEC-Hard-Fork))
 
 * [Hoo](https://hoo.com/) ([See announcement](https://twitter.com/YcashFoundation/status/1149107389586497536))
 
 * [Citex](https://www.citex.co.kr) ([See announcement](https://citex.zendesk.com/hc/en-us/articles/360030694252-Announcement-on-the-Launch-of-Zcash-ZEC-in-CITEX-Main-Board-Trade-Zone-Supports-ZEC-Hard-Fork-Announcement))
+
+* [Yobit](https://yobit.net) ([See announcement](https://twitter.com/yobitexchange))

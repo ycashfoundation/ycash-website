@@ -9,11 +9,10 @@ Your money.<br/>
 
 Ycash is a new digital currency that aspires to empower local communities to take control over the money that they earn, spend, and save.
 
-**Ycash is launching in July!** At block height 570,000 of the Zcash blockchain
-(approximately July 18th), Ycash will fork away from Zcash.
+**Ycash is live!** At block height 570,000 of the Zcash blockchain (July 18th), Ycash forked away from Zcash.
 [Learn more about the fork.](/the_fork)
 
-[**Download Ycash Version 2.0.5 Now!**](/download)
+[**Download Ycash Now!**](/download)
 
 For important announcements, follow [@YcashFoundation](https://twitter.com/YcashFoundation)
 on Twitter.
