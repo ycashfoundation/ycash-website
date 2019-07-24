@@ -127,3 +127,5 @@ The Ycash Foundation continues to apply to several exchanges. The following exch
 * [Citex](https://www.citex.co.kr) ([See announcement](https://citex.zendesk.com/hc/en-us/articles/360030694252-Announcement-on-the-Launch-of-Zcash-ZEC-in-CITEX-Main-Board-Trade-Zone-Supports-ZEC-Hard-Fork-Announcement))
 
 * [Yobit](https://yobit.net) ([See announcement](https://twitter.com/yobitexchange))
+
+* [Altilly](https://www.altilly.com) ([See announcement](https://twitter.com/altillycom/status/1153739840170668033))
