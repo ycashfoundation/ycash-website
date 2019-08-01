@@ -114,7 +114,7 @@ Several different GPU mining software packages support Equihash(192,7), includin
 
 (If this list is incomplete, contact info at ycash dot xyz and let us know.)
 
-### Exchanges
+## Exchanges
 
 The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash. Note that the Ycash foundation does not endorse any exchange. Users should perform their own due diligence.
 
