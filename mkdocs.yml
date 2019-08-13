@@ -13,7 +13,9 @@ nav:
   - Get Involved: get_involved.md
   # - Mining: mining.md
   - Blog: blog.md
-  - Documentation: docs.md
+  - Documentation:
+    - Ycashd and YecWallet: docs.md
+    - Diversified Addresses: diversified.md
   - Foundation: foundation.md
 
 extra:
