@@ -14,8 +14,8 @@ nav:
   # - Mining: mining.md
   - Blog: blog.md
   - Documentation:
-    - Ycashd and YecWallet: docs.md
-    - Diversified Addresses: diversified.md
+    - ycashd and YecWallet: docs/yecwallet_and_ycashd.md
+    - Diversified Addresses: docs/diversified_addresses.md
   - Foundation: foundation.md
 
 extra:
