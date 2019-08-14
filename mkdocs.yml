@@ -16,6 +16,8 @@ nav:
   - Documentation:
     - ycashd and YecWallet: docs/yecwallet_and_ycashd.md
     - Diversified Addresses: docs/diversified_addresses.md
+    - Importing Private Keys: docs/privkey_import.md
+    - Nullifier Migration: docs/nullifier_migration.md
   - Foundation: foundation.md
 
 extra:
