@@ -9,8 +9,16 @@ However, you can speed up the rescan if you, for example, are confident that the
 
 Both RPC calls accept an optional `startHeight` parameter that specifies from what block height to start scanning for transactions. 
 
-#### Checking on the rescan status
+#### `getrescaninfo` RPC
 Ycash 2.0.6 adds a new RPC call `getrescaninfo` that will return the current status and progress of the rescan, if one is in progress. You can use this RPC call to keep tabs on how the import key is proceeding. 
+
+```
+$ ./ycash-cli getrescaninfo
+{
+  "rescanning": true,
+  "rescanprogress": 28.64112387348676
+}
+```
 
 ## YecWallet
 Both the `startHeight` and the rescan progress can be tracked from YecWallet. When you import a private key in YecWallet, you can specify the optional `startHeight` parameter. 
