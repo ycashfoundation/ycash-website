@@ -325,8 +325,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#checking-on-the-rescan-status" title="Checking on the rescan status" class="md-nav__link">
-    Checking on the rescan status
+  <a href="#getrescaninfo-rpc" title="getrescaninfo RPC" class="md-nav__link">
+    getrescaninfo RPC
   </a>
   
 </li>
@@ -417,8 +417,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#checking-on-the-rescan-status" title="Checking on the rescan status" class="md-nav__link">
-    Checking on the rescan status
+  <a href="#getrescaninfo-rpc" title="getrescaninfo RPC" class="md-nav__link">
+    getrescaninfo RPC
   </a>
   
 </li>
@@ -460,8 +460,15 @@
 <p>When you import a new private key into Ycash, ycashd needs to rescan the blockchain from the genisis block to check for transactions that belong to the key. This process is called "rescanning" and can sometimes take hours. </p>
 <p>However, you can speed up the rescan if you, for example, are confident that there are no transactions for a private key before block 400000, you can specify block 400000 as the <code>startHeight</code> parameter, significantly speeding up the rescan. </p>
 <p>Both RPC calls accept an optional <code>startHeight</code> parameter that specifies from what block height to start scanning for transactions. </p>
-<h4 id="checking-on-the-rescan-status">Checking on the rescan status</h4>
+<h4 id="getrescaninfo-rpc"><code>getrescaninfo</code> RPC</h4>
 <p>Ycash 2.0.6 adds a new RPC call <code>getrescaninfo</code> that will return the current status and progress of the rescan, if one is in progress. You can use this RPC call to keep tabs on how the import key is proceeding. </p>
+<pre><code>$ ./ycash-cli getrescaninfo
+{
+  &quot;rescanning&quot;: true,
+  &quot;rescanprogress&quot;: 28.64112387348676
+}
+</code></pre>
+
 <h2 id="yecwallet">YecWallet</h2>
 <p>Both the <code>startHeight</code> and the rescan progress can be tracked from YecWallet. When you import a private key in YecWallet, you can specify the optional <code>startHeight</code> parameter. </p>
 <p><img alt="Import Private Key" src="../importkeydialog.png" /></p>
