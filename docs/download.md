@@ -1,8 +1,16 @@
 # Download
 
+## YecLite
+
+YecLite is the official lightweight desktop wallet for MacOS, Linux, and Windows. YecLite allows you to store, send, and receive Ycash, without having to download the Ycash blockchain.
+
+For most users, YecLite is the easiest way to join the Ycash network.
+
+**[Download YecLite from GitHub](https://github.com/ycashfoundation/yeclite/releases)**
+
 ## YecWallet
 
-YecWallet is the offical Ycash wallet of the Ycash Foundation. YecWallet allows you to store, send, and receive Ycash.
+YecWallet is the offical full node Ycash wallet of the Ycash Foundation. YecWallet allows you to store, send, and receive Ycash.
 
 For most users, YecWallet is the easiest way to join the Ycash network. (YecWallet includes a copy of ycashd, and will take care of configuring ycashd for you!)
 
