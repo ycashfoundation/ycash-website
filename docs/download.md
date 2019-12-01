@@ -12,7 +12,7 @@ For most users, YecLite is the easiest way to join the Ycash network.
 
 YecWallet is the offical full node Ycash wallet of the Ycash Foundation. YecWallet allows you to store, send, and receive Ycash.
 
-For most users, YecWallet is the easiest way to join the Ycash network. (YecWallet includes a copy of ycashd, and will take care of configuring ycashd for you!)
+(YecWallet includes a copy of ycashd, and will take care of configuring ycashd for you!)
 
 **[Download YecWallet from GitHub](https://github.com/ycashfoundation/yecwallet/releases)**
 
