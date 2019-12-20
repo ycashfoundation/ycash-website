@@ -18,6 +18,7 @@ nav:
     - Diversified Addresses: docs/diversified_addresses.md
     - Importing Private Keys: docs/privkey_import.md
     - Nullifier Migration: docs/nullifier_migration.md
+    - Mining Pool Setup: docs/mining_pool_setup.md
   - Foundation: foundation.md
 
 extra:
