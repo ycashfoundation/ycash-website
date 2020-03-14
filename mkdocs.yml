@@ -9,10 +9,12 @@ nav:
   - Home: index.md
   - Download: download.md
   - About: about.md
-  - The Fork: the_fork.md
+  - Exchanges: exchanges.md
+  - Explorers: explorers.md
   - Get Involved: get_involved.md
   #- Mining: mining.md
   - Blog: blog.md
+  - The Fork: the_fork.md
   - Documentation:
     - ycashd and YecWallet: docs/yecwallet_and_ycashd.md
     - Diversified Addresses: docs/diversified_addresses.md
