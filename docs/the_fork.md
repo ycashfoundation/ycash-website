@@ -1,8 +1,11 @@
 # The Fork
 
+*Important Note: The Ycash/Zcash chain fork successfully took place on July 18, 2019.
+This page is maintained here for historical purposes.*
+
 ## Introduction
 
-The Ycash/Zcash fork will occur at block height 570,000 of the Zcash blockchain (approximately July 18, 2019).
+The Ycash/Zcash fork occurred at block height 570,000 of the Zcash blockchain, approximately July 18, 2019).
 
 This page focuses on the mechanics of the fork. For the motivations behind the fork, see ["Announcing Ycash, The First “Friendly Fork” of the Zcash Blockchain" (2019-04-11)](https://medium.com/@YcashFoundation/announcing-ycash-the-first-friendly-fork-of-the-zcash-blockchain-ac386ed6368c).
 
@@ -116,16 +119,4 @@ Several different GPU mining software packages support Equihash(192,7), includin
 
 ## Exchanges
 
-The Ycash Foundation continues to apply to several exchanges. The following exchanges have pledged to support Ycash. Note that the Ycash foundation does not endorse any exchange. Users should perform their own due diligence.
-
-* [SafeTrade](https://www.safe.trade) ([See announcement](https://twitter.com/SafeCoins/status/1124185869135634432))
-
-* [BigONE](https://big.one) ([See announcement](https://bigone.zendesk.com/hc/en-us/articles/360026359253-BigONE-Will-Support-Zcach-ZEC-Hard-Fork))
-
-* [Hoo](https://hoo.com/) ([See announcement](https://twitter.com/YcashFoundation/status/1149107389586497536))
-
-* [Citex](https://www.citex.co.kr) ([See announcement](https://citex.zendesk.com/hc/en-us/articles/360030694252-Announcement-on-the-Launch-of-Zcash-ZEC-in-CITEX-Main-Board-Trade-Zone-Supports-ZEC-Hard-Fork-Announcement))
-
-* [Yobit](https://yobit.net) ([See announcement](https://twitter.com/yobitexchange))
-
-* [Altilly](https://www.altilly.com) ([See announcement](https://twitter.com/altillycom/status/1153739840170668033))
+(*For an up-to-date list of exchanges, see [Exchanges](/exchanges).*)
