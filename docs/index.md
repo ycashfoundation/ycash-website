@@ -1,4 +1,4 @@
-# Home
+# Welcome to Ycash
 
 <div class="slogan" style="font-size: 18pt;" >
 Your local community.<br/>

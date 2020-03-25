@@ -1,9 +1,12 @@
-site_name: Ycash&trade;
+site_name: Ycash&trade; Foundation
 
 theme:
   name: 'material'
-  logo: 'y_sign.png'
-  favicon: 'y_sign.png'
+  logo: 'ycash001.png'
+  favicon: 'ycash001.png'
+  palette:
+    primary: 'Blue Grey'
+    accent: 'Amber'
 
 nav:
   - Home: index.md
@@ -23,6 +26,10 @@ nav:
     - Mining Pool Setup: docs/mining_pool_setup.md
   - Foundation: foundation.md
 
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css
+
 extra:
   social:
     - type: 'twitter'
@@ -31,3 +38,5 @@ extra:
       link: 'https://reddit.com/r/ycashtalk'
     - type: 'github'
       link: 'https://github.com/YcashFoundation/ycash/'
+    - type: 'telegram'
+      link: "https://google.com"
