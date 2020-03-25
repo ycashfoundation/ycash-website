@@ -37,6 +37,6 @@ extra:
     - type: 'reddit'
       link: 'https://reddit.com/r/ycashtalk'
     - type: 'github'
-      link: 'https://github.com/YcashFoundation/ycash/'
+      link: 'https://github.com/YcashFoundation'
     - type: 'telegram'
-      link: "https://google.com"
+      link: 'https://t.me/YcashFoundation'
