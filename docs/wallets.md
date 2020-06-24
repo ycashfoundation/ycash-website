@@ -1,6 +1,6 @@
 # Wallets
 
-## Ycash Foundation Sallets
+## Ycash Foundation Wallets
 
 [YecLite](/download#YecLite) (Lightweight wallet for MacOS, Linux, and Windows, with
   full support for shielded transactions)
