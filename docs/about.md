@@ -3,9 +3,9 @@
 Ycash is a digital currency, like Bitcoin or Zcash.
 
 In fact, the software for Ycash is based on the software for Zcash, which in
-turn is based the software for Bitcoin.
+turn is based on the software for Bitcoin.
 
-Like Bitcoin and Zcash, the total supply of Ycash is forever capped a 21
+Like Bitcoin and Zcash, the total supply of Ycash is forever capped at 21
 million coins. So, unlike government-issued paper cash, you never have to worry
 about inflation devaluing your Ycash.
 
@@ -13,9 +13,7 @@ Ycash also shares something else in common with Zcash: shared blockchain
 history. *The first 570,000 blocks of the Ycash blockchain are the same as the
 first 570,000 blocks of the Zcash blockchain.* That means that everyone in
 control of Zcash private keys as of block height 570,000 (around July 18, 2019)
-will be able to use those private keys to access the same amount of Ycash. So, those that
-currently have a vested interest in the future of Zcash (by holding Zcash)
-automatically have a vested interest in the future of Ycash.
+will be able to use those private keys to access the same amount of Ycash.
 
 Bitcoin is truly revolutionary, but it suffers from several problems, including
 the following two key problems:
