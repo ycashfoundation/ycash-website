@@ -2,30 +2,33 @@ site_name: Ycash&trade; Foundation
 
 theme:
   name: 'material'
+  custom_dir: overrides
   logo: 'ycash001.png'
   favicon: 'ycash001.png'
   palette:
-    primary: 'Blue Grey'
-    accent: 'Amber'
+    primary: light blue
+    accent: pink
 
 nav:
   - Home: index.md
-  - Download: download.md
-  - About: about.md
   - Wallets: wallets.md
+  - About: about.md
   - Exchanges: exchanges.md
   - Explorers: explorers.md
   - Get Involved: get_involved.md
-  #- Mining: mining.md
-  - Blog: blog.md
-  - The Fork: the_fork.md
+  - Mining: mining.md
+  - Blog: 'https://ycash.medium.com/'
+  #- The Fork: the_fork.md
+  - Full Node: full_node.md
+  - Foundation: foundation.md
   - Documentation:
     - ycashd and YecWallet: docs/yecwallet_and_ycashd.md
     - Diversified Addresses: docs/diversified_addresses.md
     - Importing Private Keys: docs/privkey_import.md
     - Nullifier Migration: docs/nullifier_migration.md
     - Mining Pool Setup: docs/mining_pool_setup.md
-  - Foundation: foundation.md
+    - 2019 Fork: docs/the_fork.md
+
 
 extra_css:
   - stylesheets/dark_theme.css
@@ -33,11 +36,13 @@ extra_css:
 
 extra:
   social:
-    - type: 'twitter'
+    - icon: 'fontawesome/brands/twitter'
       link: 'https://twitter.com/YcashFoundation'
-    - type: 'reddit'
+    - icon: 'fontawesome/brands/discord'
+      link: 'https://discord.gg/Yz8rW7P'
+    - icon: 'fontawesome/brands/reddit'
       link: 'https://reddit.com/r/ycashtalk'
-    - type: 'github'
+    - icon: 'fontawesome/brands/github'
       link: 'https://github.com/YcashFoundation'
-    - type: 'telegram'
+    - icon: 'fontawesome/brands/telegram'
       link: 'https://t.me/YcashFoundation'

@@ -5,15 +5,13 @@ Ycash is a digital currency, like Bitcoin or Zcash.
 In fact, the software for Ycash is based on the software for Zcash, which in
 turn is based on the software for Bitcoin.
 
+Ycash also shares something else in common with Zcash: shared blockchain
+history. *The first 570,000 blocks of the Ycash blockchain are the same as the
+first 570,000 blocks of the Zcash blockchain.*
+
 Like Bitcoin and Zcash, the total supply of Ycash is forever capped at 21
 million coins. So, unlike government-issued paper cash, you never have to worry
 about inflation devaluing your Ycash.
-
-Ycash also shares something else in common with Zcash: shared blockchain
-history. *The first 570,000 blocks of the Ycash blockchain are the same as the
-first 570,000 blocks of the Zcash blockchain.* That means that everyone in
-control of Zcash private keys as of block height 570,000 (around July 18, 2019)
-will be able to use those private keys to access the same amount of Ycash.
 
 Bitcoin is truly revolutionary, but it suffers from several problems, including
 the following two key problems:
@@ -45,21 +43,6 @@ Another key component of Ycash's approach to addressing The Distribution Problem
 promise that originated from Zcash: that 90% of the coins would be distributed
 via the mining process. The structure of the Ycash Development Fund upholds that
 promise: With 5% of the coins starting at block height 570,000 going to the
-Ycash Development Fund (managed by the nonprofit [Ycash Foundation](/foundation)),
-90% of the total 21 million Ycash coins will be allocated via the free market
-mining process.
+Ycash Development Fund, 90% of the total 21 million Ycash coins will be allocated via the free market mining process.
 
-But there are several other coins that also build upon the Zcash codebase and
-are also trying to address The Distribution Problem; what makes Ycash different?
 
-The answer goes back to Ycash's shared blockchain history with Zcash. *Ycash is
-the only coin that is also a chain fork of Zcash.* So, not only does
-Ycash build upon the codebase of Zcash like many other coins,
-it also *uniquely* builds upon Zcash's blockchain too. Therefore, the Zcash community,
-including the world-class engineers and cryptographers at the Electric Coin
-Company, have a vested interest in Ycash's success (to the extent that those
-individuals hold Zcash at the time of the Zcash/Ycash split).
-
-Ycash is standing on the shoulders of two giants: Bitcoin and Zcash. We will
-aggressively compete with both (and all other digital currencies) for user and
-merchant adoption.

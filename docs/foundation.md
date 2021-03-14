@@ -4,8 +4,7 @@ The Ycash Foundation is a nonprofit corporation incorporated in the State of Del
 
 The Foundation is funded by the Ycash blockchain itself. Ycash users that choose to mine Ycash automatically donate 5% of mined Ycash to the Ycash Foundation. The larger the number of Ycash users that choose to mine Ycash, the larger the number of users that donate to the Ycash Foundation
 
-The Foundation was started by Howard Loo, a member of the Zcash community.
-Howard holds an undergraduate degree in computer science from Stanford University
+The Foundation was founded Howard Loo. Howard holds an undergraduate degree in computer science from Stanford University
 and a graduate law degree from UC Berkeley. He is a member of the California State Bar.
 
 Donations to the Ycash Foundation can be made using the following addresses:
