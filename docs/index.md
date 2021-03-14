@@ -7,5 +7,7 @@ Welcome to the home of the Ycash Foundation, a nonprofit organization devoted to
 
 [**Get a Ycash wallet now!**](/wallets)
 
+**[Wry—a wrapped Ycash token for DeFi—is in beta. Try it out today!](https://github.com/yecdev/wry)**
+
 For important announcements, follow [@YcashFoundation](https://twitter.com/YcashFoundation)
 on Twitter.
