@@ -6,8 +6,6 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 * [Hotbit](https://www.hotbit.io/) ([YEC/USDT](https://www.hotbit.io/exchange?symbol=YEC_USDT))
 
-* [BigONE](https://big.one) ([YEC/USDT](https://big.one/trade/YEC-USDT))
-
 * [PancakeSwap](https://exchange.pancakeswap.finance/#/swap) (WRY/BUSD, WRY/BNB, WRY CAKE)
     - Search for the WRY contract address for Binance Smart Chain: [0x4F0c54c06bC401D02Df557FD65eE30F622155cf6](https://bscscan.com/token/0x4F0c54c06bC401D02Df557FD65eE30F622155cf6)
 
