@@ -7,7 +7,7 @@ Zcash, you need to purchase an expensive, specialized computer called an ASIC.
 In contrast, you can effectively mine Ycash with a commodity graphics processing
 unit (GPU) that you may already have in your computer.
 
-To get started mining Ycash, you need a [Ycash address](/wallets), a GPU with at least 3 GB of memory, and mining software that supports Ycash's Equihash(92,7) mining algorithm.
+To get started mining Ycash, you need a [Ycash address](/wallets), a GPU with at least 3 GB of memory, and mining software that supports Ycash's Equihash(192,7) mining algorithm.
 
 # Mining Software
 
