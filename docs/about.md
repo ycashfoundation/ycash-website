@@ -1,3 +1,8 @@
+---
+title: "About"
+canonical_url: "https://y.cash/what-is-ycash"
+---
+
 # About
 
 Ycash is a digital currency, like Bitcoin or Zcash.

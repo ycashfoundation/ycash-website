@@ -1,3 +1,8 @@
+---
+title: "Diversified Addresses"
+canonical_url: "https://y.cash/fact-sheet"
+---
+
 # Diversified Addresses
 
 ## What are diversified addresses?

@@ -1,3 +1,8 @@
+---
+title: "Full Node"
+canonical_url: "https://github.com/ycashfoundation/ycash"
+---
+
 # Full Node
 
 ## ycashd

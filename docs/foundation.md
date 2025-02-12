@@ -1,3 +1,9 @@
+---
+title: "Foundation"
+canonical_url: "https://y.cash/foundation"
+---
+
+
 # Foundation
 
 The Ycash Foundation is a nonprofit corporation incorporated in the State of Delaware. It's mission is develop and promote the Ycash currency for the public good. To that end, the Foundation develops Ycash-related software and makes it free for the public to download and use.

@@ -1,3 +1,8 @@
+---
+title: "Exchanges"
+canonical_url: "https://y.cash/get-ycash"
+---
+
 # Exchanges
 
 ## Most Active Exchanges

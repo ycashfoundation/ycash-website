@@ -1,4 +1,9 @@
-## Nullifier Migration
+---
+title: "Nullifier Migration"
+canonical_url: "https://y.cash/what-is-ycash"
+---
+
+# Nullifier Migration
 When Ycash forked from the Zcash blockchain at block height 570000, the sapling pool was also forked into Ycash and Zcash. Ycash and Zcash addresses shared the same private key and the same balance at the fork block. 
 
 This also meant that the nullifiers used for the sapling addresses on both chains are shared. This created a possibility that when spending Zcash and the corresponding Ycash from the same address, a 3rd-party could potentially link those two transactions together by identifying that the same nullifier was used in both transaction. 

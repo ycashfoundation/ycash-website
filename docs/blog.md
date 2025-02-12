@@ -1,3 +1,9 @@
+---
+title: "Blog"
+canonical_url: "https://ycash.substack.com"
+---
+
+
 The Ycash Foundation blog is hosted on [Medium](https://medium.com/@YcashFoundation).
 
 Blog posts:

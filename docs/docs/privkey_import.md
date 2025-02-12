@@ -1,3 +1,9 @@
+---
+title: "Importing Private Keys into Ycash"
+canonical_url: "https://y.cash/wallets"
+---
+
+
 ## Importing Private Keys into Ycash
 
 Importing private keys, both transparent and shielded, is easier than ever. From the RPC, you can use `importprivkey` for transparent addresses and `z_importkey` for shielded addresses. 

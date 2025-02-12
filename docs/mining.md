@@ -1,3 +1,9 @@
+---
+title: "Mining"
+canonical_url: "https://y.cash/mining"
+---
+
+
 # Mining
 
 ## Getting Started

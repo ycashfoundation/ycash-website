@@ -1,3 +1,8 @@
+---
+title: "Wallets"
+canonical_url: "https://y.cash/wallets"
+---
+
 # Wallets
 In order to use Ycash, you need a Ycash wallet, and there are many great wallets to choose from.
 
