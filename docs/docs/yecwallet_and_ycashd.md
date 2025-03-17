@@ -1,3 +1,8 @@
+---
+title: "Yecwallet and ycashd"
+canonical_url: "https://y.cash/wallets"
+---
+
 # YecWallet and ycashd
 
 ## YecWallet

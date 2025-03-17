@@ -17,7 +17,7 @@ nav:
   - Explorers: explorers.md
   - Get Involved: get_involved.md
   - Mining: mining.md
-  - Blog: 'https://ycash.medium.com/'
+  - Blog: 'https://ycash.substack.com'
   #- The Fork: the_fork.md
   - Full Node: full_node.md
   - Foundation: foundation.md
@@ -46,3 +46,4 @@ extra:
       link: 'https://github.com/YcashFoundation'
     - icon: 'fontawesome/brands/telegram'
       link: 'https://t.me/YcashFoundation'
+canonical_url: 'https://y.cash'

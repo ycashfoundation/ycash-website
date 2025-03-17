@@ -1,3 +1,8 @@
+---
+title: "Ycash is the future of cash"
+canonical_url: "https://y.cash/"
+---
+
 # Ycash is the future of cash
 
 

@@ -1,3 +1,9 @@
+---
+title: "The Fork"
+canonical_url: "https://y.cash/what-is-ycash"
+---
+
+
 # The Fork
 
 *Important Note: The Ycash/Zcash chain fork successfully took place on July 18, 2019.

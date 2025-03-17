@@ -1,3 +1,8 @@
+---
+title: "Ycash Mining Pool Implementation Details"
+canonical_url: "https://y.cash/mining"
+---
+
 # Ycash Mining Pool Implementation Details
 
 Ycash is a chain fork of Zcash. To implement a mining pool for Ycash, the

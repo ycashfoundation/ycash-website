@@ -1,3 +1,8 @@
+---
+title: "Get Involved"
+canonical_url: "https://y.cash/forums"
+---
+
 # Get Involved
 
 There are many ways to get involved with Ycash:
